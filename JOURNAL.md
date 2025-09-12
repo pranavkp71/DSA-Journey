@@ -1,0 +1,13 @@
+## 2025-09-12 | LeetCode 1768: Merge Strings Alternately
+- **Problem difficulty:** Easy 
+- **Time taken:** ~1 hour
+- **What I learned:**
+  - How to merge two strings alternately using a two-pointer approach.
+  - Handling leftover characters from the longer string separately.
+  - Reading discussions can help understand different approaches when stuck.
+- **Mistakes I made:**
+  - Used `j < m` instead of `j < n` in the loop.
+  - Got stuck in parts of the logic before realizing a simpler approach.
+- **Reflection:**
+  - Completing the problem not only gave me a correct solution but also reinforced my understanding of string manipulation and alternating patterns.
+  - Felt rewarding to debug and finally understand the correct approach.
