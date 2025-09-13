@@ -28,6 +28,23 @@
   - Even though I used sort(), I now understand the logic behind two pointer merging.
   - Felt good to finally clear my confusion and complete the problem.
 
+## 2025-09-13 | LeetCode 283: Move Zeroes
+- **Problem difficulty:** Easy 
+- **Time taken:** ~01:20:37 hrs
+- **What I learned:**
+  - How to use the two pointer technique.  i to scan, j to place non zeros.
+  - The importance of a second pass to fill the remaining array positions with zeros.
+- **Mistakes I made:**
+  - Initially tried using sort(), which was wrong for this problem.
+  - Forgot to handle leftover values after moving non zeros.
+- **Reflection:**
+  - This problem taught me how to analyze multiple approaches.
+  - Submitting and passing all test cases felt great since I built the correct solution step by step.
+
+
+
+
+
 
 
 
