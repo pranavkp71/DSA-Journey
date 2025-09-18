@@ -8,7 +8,6 @@
 # and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
 
-
 class Solution:
     def merge(self, nums1, m, nums2, n):
         for j in range(n):

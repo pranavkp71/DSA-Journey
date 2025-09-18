@@ -6,8 +6,6 @@
 # (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
 
 
-
-
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         i = 0
